@@ -1,3 +1,3 @@
-// modular #1
+var $ = require('jquery');
 
-console.log("modular 2");
+$('h1').html('New text!!');
